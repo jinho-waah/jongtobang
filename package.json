@@ -2,7 +2,6 @@
   "name": "jongtobang",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jongtobang.duckdns.org",
   "type": "module",
   "scripts": {
     "dev": "vite",
